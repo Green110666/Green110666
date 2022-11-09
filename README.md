@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Green110666
 - 👀 I’m interested in playing football⚽
-- 🌱 I’m currently learning nodejs&bazel$tensorflow
+- 🌱 I’m currently learning nodejs&bazel&tensorflow
 - 💞️ I’m looking to collaborate on NULL
 - 📫 How to reach me Thewho110666@gmail.com/1815797386@qq.com
 
